@@ -1,0 +1,1 @@
+SQL basic queries from sqlbolt
